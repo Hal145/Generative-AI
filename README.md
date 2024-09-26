@@ -1,4 +1,4 @@
 # Generative-AI
 
 ## Class-Conditioned Diffusion Model Sampling
--DDIMSampler
+- Medical image sampling using DDIMSampler
