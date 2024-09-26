@@ -53,7 +53,7 @@ if __name__ == "__main__":
     shape = [3, 64, 64]
     scale = 1.5  # Scale of classifier-free guidance - parameter of the diffusion model
     samples_per_bag = 5000 # number of samples per bag
-    bags_per_class = 100 # number of whole slide image that will be created for each class
+    bags_per_class = 100 # number of whole slide images that will be created for each class
     classes = 4
     class_names = ["ns", "mc", "lr", "ld"]
 
