@@ -11,6 +11,6 @@
 | ns    | ![ns_real](images/ns_image.jpeg) | ![ns_synthetic](images/ns_synthetic_image.jpeg) |
 
 
-UMAP plot of synthetic and real image feature vectors. CONCH [Link Text](https://huggingface.co/MahmoodLab/CONCH) is used as a histopathology feature extractor.
+UMAP plot of synthetic and real image feature vectors. [CONCH](https://huggingface.co/MahmoodLab/CONCH) is used as a histopathology feature extractor.
 
 ![Alt text](images/umap_all_classes.jpeg)
